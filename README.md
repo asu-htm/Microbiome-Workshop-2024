@@ -1,6 +1,6 @@
 # Microbiome-Workshop-2024
 
-Workshop Description: Are you intrigued by microbiome research by feel overwhelmed by the complexity of the analyses? This workshop is designed to break down the "black box" of microbiome analysis and provide students and trainees with a solid foundation to confidently explore microbial community data. 
+Workshop Description: Are you intrigued by microbiome research but feel overwhelmed by the complexity of the analyses? This workshop is designed to break down the "black box" of microbiome analysis and provide students and trainees with a solid foundation to confidently explore microbial community data. 
 
 Led by Sterling Wright, a post doc at Arizona State University, this hands-on session will guide participants through the essential concepts, tools, and workflows for microbiome analysis. Whether you are new to the field or looking to refine your skills, this workshop will provide a clear roadmap for navigating microbiome research. 
 
