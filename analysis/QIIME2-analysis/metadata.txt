@@ -1,6 +1,8 @@
-SampleID	GroupName	Healthy	BMI
-SRR23380943	1	Y	24.6
-SRR23380898	2	N	25.2
-SRR23380903	1	Y	22.2
-SRR23381005	1	N	20.9
-SRR23380883	2	Y	29.5
+sample-id       GroupNumber     Health
+SRR23380990     one     Y
+SRR23380991     two     N
+SRR23380993     one     Y
+SRR23380994     two     Y
+SRR23380995     one     Y
+SRR23380996     two     N
+SRR23380997     two     Y
